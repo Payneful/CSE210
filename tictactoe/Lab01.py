@@ -167,4 +167,3 @@ while replay == "y":
         replay = input("Play again? (y/n) ").lower()
     else:
         print("Your game was saved.")
-        replay = "n"
